@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: revshellgen
+Version: 1.2
+Summary: Standalone python script for generating reverse shells easily and automating the boring stuff like URL encoding the command and setting up a listener.
+Author: https://github.com/t0thkr1s
+Author-email: t0thkr1s@icloud.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

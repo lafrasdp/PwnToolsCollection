@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+revshellgen.egg-info/PKG-INFO
+revshellgen.egg-info/SOURCES.txt
+revshellgen.egg-info/dependency_links.txt
+revshellgen.egg-info/requires.txt
+revshellgen.egg-info/top_level.txt
