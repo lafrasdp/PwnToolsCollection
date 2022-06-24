@@ -1,0 +1,30 @@
+https://github.com/danielmiessler/SecLists
+
+
+File names
+SecLists/Discovery/Web-Content/raft-medium-files-lowercase.txt
+SecLists/Discovery/Web-Content/raft-large-files.txt
+
+Directories
+SecLists/Discovery/Web-Content/directory-list-2.3-small.txt
+SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt
+SecLists/Discovery/Web-Content/directory-list-2.3-big.txt
+
+Usernames
+SecLists/Usernames/top-usernames-shortlist.txt
+SecLists/Usernames/cirt-default-usernames.txt
+SecLists/Usernames/xato-net-10-million-usernames.txt
+
+Rockyou
+139MB - 14344393 passwords
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
+
+
+
+Rocktastic12a
+13GB - 1133849621 passwords
+BitTorrent: https://labs.nettitude.com/torrents/Rocktastic12a.rar.torrent
+sha1sum: 38807f82763c78b4e5da7b5d2279ee91781e189d Rocktastic12a.rar
+
+
